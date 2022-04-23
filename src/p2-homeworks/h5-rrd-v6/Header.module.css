@@ -1,0 +1,18 @@
+.menuList {
+    margin: 20px;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    transition: 1s;
+}
+
+.menuList div {
+    margin-right: 20px;
+    transition: 1s;
+}
+
+.hidden {
+    display: none;
+    transition: 1s;
+}
+
