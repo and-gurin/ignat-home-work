@@ -26,12 +26,12 @@
     position: absolute;
 
     background-color: transparent;
-    bottom: 0px;
+    bottom: 1px;
     left: -20px;
     height: 20px;
     width: 20px;
     border-bottom-right-radius: 10px;
-    box-shadow: 10px 0 0 0 black;
+    box-shadow: 10px 0 0 0 seagreen;
 }
 
 .message_name {
